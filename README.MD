@@ -123,7 +123,7 @@ C_array<int, 2, 3, 4> my_array; // my_array[2][3][4]
 
 ## Contributing
 
-Contributions to this library are welcome! If you find any issues or have ideas for improvements, please open an issue or create a pull request on the [GitHub repository](https://github.com/your-username/multi-array-library).
+Contributions to this library are welcome! If you find any issues or have ideas for improvements, please open an issue or create a pull request on the [GitHub repository](https://github.com/tristan-bamford/multi_array).
 
 Before contributing, please review the Contributing Guidelines.
 
