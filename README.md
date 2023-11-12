@@ -60,7 +60,7 @@ int main() {
     my_array(0,1,2) = 42;
 
     // Work with "sub-arrays"
-    returns multi_array<int, 4>& sub_array = my_array[0][1]; 
+    multi_array<int, 4>& sub_array = my_array[0][1]; 
 
     return 0;
 }

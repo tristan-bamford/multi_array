@@ -395,6 +395,14 @@ namespace tb {
       return result;
     }
 
+  template<typename T, std::size_t M, std::size_t... N>
+    consteval auto
+    extents(const multi_array<T, M, N...>& a)
+    {
+
+    }
+  
+
   /*
   template<typename T, std::size_t M, std::size_t... N>
     auto constexpr array_size(const multi_array<T, M, N...>&)
